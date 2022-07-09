@@ -15,5 +15,5 @@ instead of a straight line. To get this S shape curve, Logistic
 Regression uses the sigmoid function. The sigmoid function
 gives probabilities between 0 and 1. In our model, logistic
 Regression will give us whether the message is spam or not.
-Where if it’s 1, it would be spam else it would be ham if the
-value is 0.
+Where if it’s 0, it would be spam else it would be ham if the
+value is 1.
